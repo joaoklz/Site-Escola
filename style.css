@@ -1,5 +1,5 @@
 .cabecalho{
-background-color: rgb(151, 13, 8);
+background-color: rgb(137, 10, 255);
 color: rgb(0, 0, 0);
 display: flex;
 }
@@ -8,6 +8,6 @@ display: flex;
 }
 
 .section2 {
-background-color: rgb(94, 47, 3);
+background-color: rgb(95, 12, 143);
 padding: 100px;
 }
