@@ -4,10 +4,10 @@ color: rgb(0, 0, 0);
 display: flex;
 }
 .cabecalho-imagem{
-    width: 15%;
+  width: 10%;
 }
 
 .section2 {
 background-color: rgb(95, 12, 143);
-padding: 100px;
+
 }
